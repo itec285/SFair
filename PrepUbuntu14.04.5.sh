@@ -8,7 +8,6 @@ sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt
 sudo nano /etc/apache2/mods-enabled/dir.conf
 sudo service apache2 restart
 sudo apt-get install git
-git clone https://www.github.com/itec285/SFair
 cd SFair
 git config --global user.email “itec285@gmail.com”
 git config --global user.name “Ivan Long”
