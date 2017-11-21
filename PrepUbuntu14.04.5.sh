@@ -9,4 +9,4 @@ sudo service apache2 restart
 cd SFair
 git config --global user.email “itec285@gmail.com”
 git config --global user.name “Ivan Long”
-tar xvjf sfiab-2.0.8.tar.bz2
+sudo tar xvjf sfiab-2.0.8.tar.bz2
